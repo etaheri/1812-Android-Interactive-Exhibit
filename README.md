@@ -1,4 +1,4 @@
-Android_Exhibit_NFC
+Interactive War of 1812 Exhibit
 ===================
 
 src files from android exhibit
